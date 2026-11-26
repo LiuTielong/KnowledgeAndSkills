@@ -1,0 +1,10 @@
+Generation mode: built-in image_gen (imagegen skill).
+
+Use case: illustration-story.
+Asset type: a polished landscape cartoon cover for a Chinese educational article on Zhihu titled “大模型推理的解码策略”.
+Create one finished raster illustration, landscape 16:9 composition, suitable for a technical article cover and clear at thumbnail size.
+Scene: a friendly small AI robot at a token-selection console, thoughtfully choosing one glowing token card from five floating candidate cards. The five cards have differently sized simple probability bars, and a few clean branching arrows converge onto the selected card, visually suggesting sampling and decoding. The selected card is prominent; other cards remain visible but subdued. Keep the idea clear and conceptual rather than a detailed technical diagram.
+Style: sophisticated editorial cartoon, rounded geometric forms, crisp outlines, subtle soft shading, playful but professional, cohesive cool blue and teal with a warm orange highlight for the selected token, bright uncluttered background.
+Composition: balanced horizontal cover with a clear focal robot and token cards, generous breathing room, all important content safely inset from edges so modest cover cropping works.
+Text: include exactly “LLM 解码策略” in large, beautifully legible dark Chinese headline lettering, integrated naturally into the open space without overlapping the illustration. On the five candidate cards use only single letters A, B, C, D, E. No other text, no tiny labels, no fake equations, no numeric probability claims, no branding, no watermark.
+The picture should communicate: a language model considers several possible next tokens and selects one.

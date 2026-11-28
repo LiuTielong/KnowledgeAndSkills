@@ -1,0 +1,11 @@
+{
+  "kimi-linear-architecture.jpg": {
+    "source": "https://raw.githubusercontent.com/MoonshotAI/Kimi-Linear/master/figures/arch.png",
+    "report": "https://arxiv.org/html/2510.26692v1",
+    "note": "Official asset has a .png URL but contains JPEG data; original bytes preserved."
+  },
+  "qwen3-next-architecture.png": {
+    "source": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-Next/model_architecture.png",
+    "model_card": "https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct"
+  }
+}
